@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nacros90
-- 👀 I’m interested in physics and chemistry, sciences in general, skate, coding, music.
+- 👀 I’m interested in math and physics, skate, coding and music.
 - 🌱 I’m currently learning python.
 - I'm French, and I code juste for fun.
 
